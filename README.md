@@ -1,4 +1,4 @@
-# 🛡️ Low-Level Raw Network Sniffer (No libpcap)
+#  Low-Level Raw Network Sniffer (No libpcap)
 
 ![Language](https://img.shields.io/badge/language-C-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)
@@ -7,7 +7,7 @@
 
 > **Projet Portfolio :** Implémentation manuelle d'un analyseur de paquets réseau (Sniffer) en C pur, interagissant directement avec le Kernel Linux sans aucune librairie externe type `libpcap`.
 
-## 📋 Présentation
+##  Présentation
 
 Ce projet est une démonstration technique de programmation système bas niveau. L'objectif est de capturer et d'analyser le trafic réseau en utilisant les **Raw Sockets (`AF_PACKET`)**.
 
@@ -29,7 +29,7 @@ Contrairement aux outils classiques, ce sniffer analyse manuellement les en-têt
 - **Unit Testing** : Banc de test intégré (`tests/`) injectant des faux paquets (Mocking) pour valider la logique de parsing sans accès réseau.
 - **Documentation** : Génération automatique via Doxygen.
 
-## 🚀 Architecture du Projet
+## Architecture du Projet
 
 ```bash
 raw-packet-sniffer/
