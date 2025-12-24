@@ -1,0 +1,9 @@
+<map id="include/packet_parser.h" name="include/packet_parser.h">
+<area shape="rect" id="Node000001" title="Fonctions d&#39;analyse et d&#39;affichage des paquets réseaux." alt="" coords="90,5,265,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,101,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,33,87,74,84,69,156,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="125,79,229,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,31,180,65,175,65,175,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="253,79,368,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="200,28,278,70,276,74,198,33"/>
+</map>

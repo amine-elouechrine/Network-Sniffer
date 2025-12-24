@@ -1,0 +1,17 @@
+# Informations du projet
+PROJECT_NAME           = "Raw Packet Sniffer"
+PROJECT_NUMBER         = "1.0"
+PROJECT_BRIEF          = "Analyseur de paquets bas niveau en C (Raw Sockets)"
+OUTPUT_DIRECTORY       = docs
+
+# Configuration d'entrée
+INPUT                  = src include
+RECURSIVE              = YES
+FILE_PATTERNS          = *.c *.h
+
+# Configuration de sortie
+GENERATE_LATEX         = NO
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+EXTRACT_ALL            = YES
+OPTIMIZE_OUTPUT_FOR_C  = YES
