@@ -13,7 +13,7 @@ Ce projet est une démonstration technique de programmation système bas niveau.
 
 Contrairement aux outils classiques, ce sniffer analyse manuellement les en-têtes Ethernet, IP et TCP en respectant scrupuleusement les RFCs. Cette approche "Bare Metal" est critique dans le développement de **systèmes embarqués de défense**, de **pare-feux souverains** ou de **sondes de détection temps réel**.
 
-## 🛠️ Compétences Techniques Démontrées
+## Compétences Techniques Démontrées
 
 ### 1. Interaction Kernel & Raw Sockets
 - Utilisation de `socket(AF_PACKET, SOCK_RAW, htons(ETH_P_ALL))` pour contourner la stack réseau de l'OS.
@@ -45,3 +45,4 @@ raw-packet-sniffer/
 ├── Doxyfile             # Configuration de la documentation
 ├── Makefile             # Système de build automatisé
 └── README.md            # Documentation du projet
+
